@@ -1,4 +1,4 @@
-# vue-ulbi-fundamental
+# vue-progect
 
 ## Project setup
 ```
