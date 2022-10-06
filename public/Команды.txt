@@ -1,0 +1,3 @@
+vue create .
+npm run serve
+npm i axios
